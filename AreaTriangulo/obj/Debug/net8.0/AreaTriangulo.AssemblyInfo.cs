@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaTriangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c7df528b002d805bb78504ca3f66d1224bf387")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a96ddae12cd9ab0b95fcabb701ef82734d680d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaTriangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaTriangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

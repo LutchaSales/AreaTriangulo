@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projetos\\AreaTriangulo\\",
+  "WorkspaceRootPath": "C:\\projeto\\Course\\Triangulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC85DA63-75AC-48CB-8F5B-0319C3B2B46D}|AreaTriangulo\\AreaTriangulo.csproj|c:\\projetos\\areatriangulo\\areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC85DA63-75AC-48CB-8F5B-0319C3B2B46D}|AreaTriangulo\\AreaTriangulo.csproj|c:\\projeto\\course\\triangulo\\areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC85DA63-75AC-48CB-8F5B-0319C3B2B46D}|AreaTriangulo\\AreaTriangulo.csproj|solutionrelative:areatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC85DA63-75AC-48CB-8F5B-0319C3B2B46D}|AreaTriangulo\\AreaTriangulo.csproj|c:\\projetos\\areatriangulo\\areatriangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC85DA63-75AC-48CB-8F5B-0319C3B2B46D}|AreaTriangulo\\AreaTriangulo.csproj|c:\\projeto\\course\\triangulo\\areatriangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC85DA63-75AC-48CB-8F5B-0319C3B2B46D}|AreaTriangulo\\AreaTriangulo.csproj|solutionrelative:areatriangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,23 +32,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\Triangulo.cs",
+              "DocumentMoniker": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\Triangulo.cs",
               "RelativeDocumentMoniker": "AreaTriangulo\\Triangulo.cs",
-              "ToolTip": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\Triangulo.cs",
+              "ToolTip": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\Triangulo.cs",
               "RelativeToolTip": "AreaTriangulo\\Triangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T15:38:46.956Z"
+              "WhenOpened": "2024-09-10T15:38:46.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\Program.cs",
+              "DocumentMoniker": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\Program.cs",
               "RelativeDocumentMoniker": "AreaTriangulo\\Program.cs",
-              "ToolTip": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\Program.cs",
+              "ToolTip": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\Program.cs",
               "RelativeToolTip": "AreaTriangulo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T15:38:23.677Z",
               "EditorCaption": ""

@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\i7\\.nuget\\packages\\": {},
+    "C:\\Users\\lucia\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\AreaTriangulo.csproj",
+      "projectUniqueName": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\AreaTriangulo.csproj",
       "projectName": "AreaTriangulo",
-      "projectPath": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\AreaTriangulo.csproj",
-      "packagesPath": "C:\\Users\\i7\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\AreaTriangulo\\AreaTriangulo\\obj\\",
+      "projectPath": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\AreaTriangulo.csproj",
+      "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
+      "outputPath": "C:\\projeto\\Course\\Triangulo\\AreaTriangulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
